@@ -10,7 +10,7 @@
     <meta name="author" content="Alexandr" >
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Carousel Template for Bootstrap</title>
+    <title>Озеро Баскунчак</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -52,30 +52,27 @@
           <img class="first-slide" src="img/1.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption text-xs-left">
-              <h1>Example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
+              <h1>Хлоридно-натриевая рапа.</h1>
+              <p>Содержит комплекс макро- и микроэлементов, способствуют быстрому выздоровлению отдыхающих.</p>
+                  </div>
           </div>
         </div>
         <div class="carousel-item">
           <img class="second-slide" src="img/2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-            </div>
+              <h1>Сульфидная иловая грязь.</h1>
+              <p>Аналогичная по действию и составу грязи Мертвого моря.</p>
+                          </div>
           </div>
         </div>
         <div class="carousel-item">
           <img class="third-slide" src="img/3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption text-xs-right">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
-            </div>
+              <h1>Лечебный воздух с высоким содержанием брома и фитонцидов.</h1>
+              <p></p>
+                          </div>
           </div>
         </div>
       </div>
@@ -100,23 +97,23 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="img/a.jpg" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <h2>Алесандр</h2>
+          <p>Были на майских праздниках. Озеро впечатляет своей красотой. Причем как днем так и ночью (а уж вид с горы Богдо на озере так просто потрясающий).</p>
+          
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="img/t.jpg" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <h2>Татьяна</h2>
+          <p>Много чего видела в своей жизни, но от озера до сих пор под впечатлением.</p>
+          
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="img/i.jpg" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper.</p>
-          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          <h2>Иван</h2>
+          <p>Экзотика в полной мере. Фантастические пейзажи и ощущения. И достаточно чисто. Настоятельно рекомендую.</p>
+          
         </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
+              </div><!-- /.row -->
 
 
       <!-- START THE FEATURETTES -->
@@ -125,8 +122,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">На южном берегу озера стоит гора Богдо.<span class="text-muted">Гора силы.</span></h2>
+          <p class="lead">Озеро Баскунчак входит в состав уникального природного комплекса. В 1997 Богдинско-Баскунчакский природный комплекс был объявлен заповедником, где на площади 53,7 тыс.га установлен специальный природоохранный режим.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid m-x-auto" data-src="holder.js/500x500/auto" src="img/s1.jpg" alt="Generic placeholder image">
@@ -137,8 +134,8 @@
 
       <div class="row featurette">
         <div class="col-md-7 push-md-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Не тронутая природа.<span class="text-muted">Замечательные виды.</span></h2>
+          <p class="lead">Здесь проходит важный миграционный путь птиц с севера Сибири на зимовки.</p>
         </div>
         <div class="col-md-5 pull-md-7">
           <img class="featurette-image img-fluid m-x-auto" data-src="holder.js/500x500/auto" src="img/s2.jpg" alt="Generic placeholder image">
@@ -149,8 +146,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Заповедник создан для охраны малонарушенных полупустынных сообществ.<span class="text-muted"></span></h2>
+          <p class="lead">Единственная гора естественного происхождения в Прикаспийской низменности.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-fluid m-x-auto" data-src="holder.js/500x500/auto" src="img/s3.jpg" alt="Generic placeholder image">
@@ -164,8 +161,8 @@
 
       <!-- FOOTER -->
       <footer>
-        <p class="pull-xs-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2016 Золотое ведро, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p class="pull-xs-right"><a href="#">На верх</a></p>
+        <p>&copy; 2016 Золотое ведро, Inc. &middot;</p>
       </footer>
 
     </div><!-- /.container -->

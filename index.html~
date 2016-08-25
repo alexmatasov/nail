@@ -32,7 +32,7 @@
           <a class="nav-link" href="#">Цены</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">О озере</a>
+          <a class="nav-link" href="#">Об озере</a>
         </li>
       </ul>
     </nav>
@@ -162,7 +162,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-xs-right"><a href="#">На верх</a></p>
-        <p>&copy; 2016 Золотое ведро, Inc. &middot;</p>
+        <p>&copy; 2016 Артель "Золотое ведро", Inc. &middot;</p>
       </footer>
 
     </div><!-- /.container -->
